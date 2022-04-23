@@ -1,6 +1,6 @@
 # The Nights Metaverse
 
-This project was made by stormwings
+### This project was made by stormwings
 
 ## Requirements
 
@@ -9,20 +9,18 @@ This project was made by stormwings
 
 ## Truffle available scripts
 
-To run this project, you should run:
-
-### `truffle compile`
-
 Compile smart contracts
 
-### `truffle deploy`
+`truffle compile`
 
 Deploy smart contracts on Ganache blockchain environment
 
-### `truffle migrate --reset`
+`truffle deploy`
 
 Reset migrations
 
-### `truffle test`
+`truffle migrate --reset`
 
 Run smart contract tests
+
+`truffle test`
